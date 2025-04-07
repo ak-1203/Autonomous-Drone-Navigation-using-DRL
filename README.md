@@ -1,11 +1,11 @@
-# 🛰️ Autonomous Drone Navigation using Deep Reinforcement Learning
+# Auto-Drone Navigation using Deep Reinforcement Learning
 
 ## 📌 Note
 
 > 🛠️ **This is an ongoing project.**  
 > Future improvements include trajectory planning, multi-axis stabilization, generalization to arbitrary start and target points, and possibly integration with a real drone platform.
 
-This is an ongoing project focused on developing an autonomous drone system capable of navigating from an arbitrary start coordinate **A** to a target coordinate **B** using **Deep Reinforcement Learning (DRL)**. The current stage focuses on achieving **stable hovering and altitude control**, which has been successfully implemented.
+This is an **ongoing project** focused on developing an autonomous drone system capable of navigating from an arbitrary start coordinate **A** to a target coordinate **B** using **Deep Reinforcement Learning (DRL)**. The current stage focuses on achieving **stable hovering and altitude control**, which has been successfully implemented.
 
 ---
 
@@ -13,7 +13,7 @@ This is an ongoing project focused on developing an autonomous drone system capa
 ## 📌 Project Objectives  
 
 <p align="center">
-  <img src="Autonomous-Drone-Navigation-using-DRL/gifs_graphs/intro.gif" width="500"/>
+  <img src="gifs_graphs/intro.gif" width="500"/>
 </p>  
 
 - ✅ **Stabilize the drone at a fixed target altitude using DRL**
@@ -28,11 +28,11 @@ This is an ongoing project focused on developing an autonomous drone system capa
 ## 🛸 Drone Stabilization Demo
 
 <p align="center">
-  <img src="Autonomous-Drone-Navigation-using-DRL/gifs_graphs/trained1.gif" width="500"/>
+  <img src="gifs_graphs/trained1.gif" width="500"/>
 </p>
 
 <p align="center">
-  <img src="Autonomous-Drone-Navigation-using-DRL/gifs_graphs/hover-graph.png" width="500" />
+  <img src="gifs_graphs/hover-graph.png" width="500" />
 </p>
 
 ## 🧠 Algorithms & Tools Used
