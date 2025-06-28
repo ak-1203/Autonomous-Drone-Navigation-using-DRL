@@ -1,6 +1,6 @@
 # Auto-Drone Navigation using Deep Reinforcement Learning
 
-## 📌 Note
+## 📌Note
 
 > 🛠️ **This is an ongoing project.**  
 > Future improvements include trajectory planning, multi-axis stabilization, generalization to arbitrary start and target points, and possibly integration with a real drone platform.
@@ -10,7 +10,7 @@ This is an **ongoing project** focused on developing an autonomous drone system 
 ---
 
 
-## 📌 Project Objectives  
+## Project Objectives  
 
 <p align="center">
   <img src="gifs_graphs/intro.gif" width="500"/>
@@ -25,7 +25,7 @@ This is an **ongoing project** focused on developing an autonomous drone system 
 - 🚧 **Incorporate obstacle avoidance and velocity control**
 
 ---
-## 🛸 Drone Stabilization Demo
+##  Drone Stabilization Demo
 
 <p align="center">
   <img src="gifs_graphs/trained1.gif" width="500"/>
@@ -35,7 +35,7 @@ This is an **ongoing project** focused on developing an autonomous drone system 
   <img src="gifs_graphs/hover-graph.png" width="500" />
 </p>
 
-## 🧠 Algorithms & Tools Used
+## Algorithms & Tools Used
 
 - **RL Algorithm**: Proximal Policy Optimization (PPO) using `stable-baselines3`
 - **Physics Simulation**: PyBullet
@@ -45,7 +45,7 @@ This is an **ongoing project** focused on developing an autonomous drone system 
 
 ---
 
-## 🏗️ Current Progress
+## Current Progress
 
 - [x] Designed a custom Gym environment for drone simulation  
 - [x] Achieved stable hovering at a desired altitude (z-axis control)  
@@ -57,7 +57,7 @@ This is an **ongoing project** focused on developing an autonomous drone system 
 ---
 
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repo:
    ```bash
